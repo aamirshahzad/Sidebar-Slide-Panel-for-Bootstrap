@@ -17,6 +17,6 @@
 {
     height: 500px;
     width: 100%;
-    background: #ddd;
     float: left;
+	padding-left: 5%;
 }
