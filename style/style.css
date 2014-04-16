@@ -1,4 +1,8 @@
 /* aash1010 */
+body
+{
+	overflow: hidden;
+}
 #slide-panel {
     width:300px;
     height:800px;
